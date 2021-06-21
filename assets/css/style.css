@@ -5,7 +5,6 @@
 }
 
 body {
-    /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
@@ -174,6 +173,7 @@ section {
     font-size: 38px;
 }
 
+/* trainer style */
 .trainers {
     text-align: center;
 }
